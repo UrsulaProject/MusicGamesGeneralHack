@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entry</key>
+	<dict>
+		<key>cell</key>
+		<string>PSLinkCell</string>
+		<key>icon</key>
+		<string>rba.png</string>
+		<key>label</key>
+		<string>RBAC+ Theme</string>
+	</dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>RBAC+ Theme</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>naville.reflecbeatplusarcade</string>
+			<key>key</key>
+			<string>kCXBGRADE</string>
+			<key>label</key>
+			<string>ThemeID</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSFooterText</string>
+			<key>label</key>
+			<string>RBAC+ Dev Team</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>A Naville.Zhang Product</string>
+</dict>
+</plist>

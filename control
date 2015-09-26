@@ -1,0 +1,9 @@
+Package: naville.musicgamegeneralhack
+Name: Music Games General Hack
+Depends: mobilesubstrate,naville.repoutilities,preferenceloader
+Version: 14.0.0
+Architecture: iphoneos-arm
+Description: By Naville。Smule全音乐游戏兼容，Konami除Gitadora和Beat Gather韩国版外各版本各游戏兼容。CrossXBeats无限体力及全曲包全皮肤解锁。TouchMix2全曲包解锁。每次安装后清除o2jamu存档并给予新的24小时无限试玩卡
+Maintainer: Naville
+Author: Naville
+Section: Tweaks
