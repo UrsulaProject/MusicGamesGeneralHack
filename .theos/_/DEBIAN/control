@@ -1,0 +1,10 @@
+Package: naville.musicgamegeneralhack
+Name: MUGKit
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Reborn
+Maintainer: Naville
+Author: Naville
+Section: Tweaks
+Version: 18.0.0-7+debug
+Installed-Size: 132
