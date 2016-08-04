@@ -3,3 +3,5 @@ Jubeat
 crossbeatjp
 RBPLUS
 obj/
+.theos/*
+.DS_Store
