@@ -1,7 +1,5 @@
-packages
-Jubeat
-crossbeatjp
-RBPLUS
-obj/
-.theos/*
+/packages/
+/obj/
+/.theos/
 .DS_Store
+*~
